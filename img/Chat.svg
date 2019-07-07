@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60">
+	<defs>
+		<clipPath id="clip_0">
+			<rect x="-1350" y="-710" width="1440" height="800" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_0)">
+		<path fill="rgb(157,94,155)" stroke="none" d="M30 60C46.5685 60 60 46.5685 60 30C60 13.4315 46.5685 0 30 0C13.4315 0 0 13.4315 0 30C0 46.5685 13.4315 60 30 60C46.5685 60 60 46.5685 60 30C60 13.4315 46.5685 0 30 0C13.4315 0 0 13.4315 0 30C0 46.5685 13.4315 60 30 60Z"/>
+	</g>
+	<defs>
+		<image id="img_0" width="43" height="43" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAArCAYAAADhXXHAAAAABHNCSVQICAgIfAhkiAAAAiJJREFUWIXtmWFTozAQhh9oWj29mbsP/v9fqFbPnkehAT/srmwjVD2h8QPvzE4GSOnDm2QnLAXHKlxbuOMc6lwAdB6mAEogACuN8qx4vTqgBaKL1jtZAhvgh8YFAnxud83NA1AB/4A9UAcHGxTyN/ALuNJzOaZCBGpgBzwi8DGFvUJgb4BrYE0eZ1vE1Q0CXgF7D7sGLhXyp0Z4c6vzqNX/bpDpGIDChrnUWCNPs9EOOWHX9Iu9BAq/2sskcqYt01H6LJOTuXPrSeXKo/+lBXYuLbBzaYGdSwvsXFpg59ICO5cW2Lm0wM4lD5tWQL6dDNYgWxffDjrQg0akCtJoG+lfHN97L+uS9qtqGTAuuIsHpEzzDPxV0I7+dXgIeI4R8UWOPWJeBLrgOjQK+qhwESl0jNW97KYNUuqp9YHbCWCjgv5BjGuANiQdnhXIak0Hvf5aaEj610jhbKe/rc2FCWDNvJ2CxxS2pp8SUSEvEHe7gb5WOHvwN/0iLI7BRu3IWQ9hw7hCpoF3y4M+KeSdtq/DNQHs4FpIa1lpZrA56M/vERe3wK22U7rqWXw7WnjrBsKmhoHeAfd6XE0MOqj3qoR+xXfIYtoikFtkKkzt6Kg+AtsgkC0Cd8/0C+pDOgVrjlZIyrK8Z4tpijT1Ka1Gzhf0X2xAQJ/ok7SluLPuH04tsAP98BcIYEUmUBjfoJizti/w6SzbjuzUbsq+NRS8TWNZ9AIU//schxmkoAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<defs>
+		<clipPath id="clip_1">
+			<rect x="-1350" y="-710" width="1440" height="800" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_1)">
+		<use fill="rgb(255,255,255)" stroke="none" transform="matrix(1.01163 0 0 1.01163 9 12.25)" xlink:href="#img_0"/>
+	</g>
+	<defs>
+		<clipPath id="clip_2">
+			<rect x="-1350" y="-710" width="1440" height="800" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_2)">
+		<path fill="rgb(255,255,255)" stroke="none" transform="translate(12 14.25)" d="M34.4388 0L3.06122 0C1.48456 0 0 1.4757 0 3.06122L0 25.2551C0 27.0297 1.48456 28.5054 3.06122 28.3163L4.59184 28.3163L4.59184 37.5L14.5408 28.3163L34.4388 28.3163C36.0154 28.5054 37.5 27.0297 37.5 25.2551L37.5 3.06122C37.5 1.4757 36.0154 0 34.4388 0L3.06122 0C1.48456 0 0 1.4757 0 3.06122L0 25.2551C0 27.0297 1.48456 28.5054 3.06122 28.3163L4.59184 28.3163L4.59184 37.5L14.5408 28.3163L34.4388 28.3163C36.0154 28.5054 37.5 27.0297 37.5 25.2551L37.5 3.06122C37.5 1.4757 36.0154 0 34.4388 0Z"/>
+	</g>
+
+</svg>

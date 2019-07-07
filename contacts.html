@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ua">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Contacts Dobre serce</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/contacts.css">
+	<meta name="viewport" content="width=device-width">
+</head>
+
+<body>
+	<div class="back"></div>
+	<div class="container">
+
+		<header>
+			<div class="logo">
+				<a href="index.html"><img src="img/logo.svg" alt="logo"></a>
+			</div>
+
+			<div>
+				<ul class="lang">
+					<li><a href="#">Укр</a></li>
+					<li><a href="#">Рус</a></li>
+					<li><a href="#">Eng</a></li>
+				</ul>
+			</div>
+
+			<nav>
+				<ul class="site-nav">
+					<li><a href="project.html">Проект</a></li>
+					<li><a href="archiv.html">Архів</a></li>
+					<li><a class="contacts" href="contacts.html">Контакти</a></li>
+				</ul>
+				<div>
+					<a href="fastHelp.html" class="help">Термінова допомога</a>
+				</div>
+			</nav>
+
+			<div class="search">
+				<img src="img/Shape.svg" alt="Shape">
+			</div>
+
+			<div class="sign-in">Вхід / Зареєструватися</div>
+		</header>
+
+		<main>
+
+			<div class="titles">
+				<div>
+					<h1>+38 (077) 777 77 77 <br>
+						help@kindheart.ua</h1>
+				</div>
+			</div>
+
+			<div class="consult">
+				<div class="zapovnit">
+					<h3>Заповніть своє ім’я і контактні дані, і Вам нададуть консультацію по телефону</h3>
+				</div>
+				<div class="data">
+					<form id="application" action=" application.php" method="POST" name=" application ">
+						<input name="name" id="applicationName" maxlength="20" placeholder="Ім’я" required />
+						<input name="telephone" type="Tel" id="applicationTelephone" maxlength="20"
+							placeholder="Телефон" required />
+						<button class="applicationButton" type="submit" form="application">Відправити</button>
+					</form>
+				</div>
+			</div>
+
+		</main>
+
+		<footer>
+			<div>
+				<ul class="socials">
+					<li><a href="#"><img src="img/Twitter.svg" alt=""></a></li>
+					<li><a href="#"><img src="img/Facebook.svg" alt=""></a></li>
+					<li><a href="#"><img src="img/vk.svg" alt=""></a></li>
+				</ul>
+			</div>
+
+			<a href="#"><img src="img/Chat.svg" alt="" class="chat"></a>
+		</footer>
+
+	</div>
+
+</body>
+
+</html>

@@ -1,0 +1,163 @@
+.back {
+
+	z-index: 0;
+	position: fixed;
+	height: 100vh;
+	width: 100%;
+	background-image: linear-gradient(-39deg, #4792e1 0%, #4174b3 35%, #363b5d 100%);
+	-webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+
+
+.site-nav a {
+	display: flex;
+	font-family: 'Geometria-ExtraBold', sans-serif;
+	font-size: 15px;
+	color: #c5d5e6;
+	padding: 5px 15px;
+}
+
+.site-nav a:active {
+	border-radius: 5px;
+	background-color: #000000;
+	opacity: 0.2;
+}
+
+.contacts {
+	border-radius: 5px;
+	background-color: #000000;
+	opacity: 0.2;
+}
+
+.help {
+	width: 190px;
+	height: 30px;
+	display: flex;
+	background: linear-gradient(90deg, #E73453, #6082D7);
+	border-radius: 5px;
+	justify-content: center;
+	align-items: center;
+	margin: 0 264px 0 10px;
+	font-family: 'Geometria-ExtraBold', sans-serif;
+	font-size: 15px;
+	color: #fff;
+
+}
+
+
+main {
+	padding: 0 0 0 0;
+	height: 83vh;
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+}
+
+.titles {
+	display: flex;
+	justify-content: center;
+	color: #ffffff;
+	font-family: 'Geometria-ExtraBold', sans-serif;
+	font-size: 32px;
+}
+
+
+
+.consult h3 {
+	padding: 0 0 40px 0;
+	text-align: center;
+	color: #ffffff;
+	font-family: "Gilroy-Light";
+	font-size: 18px;
+	font-weight: 300;
+}
+
+
+#application {
+	width: 640px;
+	margin: 0 auto;
+}
+
+#applicationName,
+#applicationEmail,
+#applicationTelephone {
+	width: 200px;
+	height: 40px;
+	padding-left: 10px;
+	border-radius: 5px;
+	background-color: #566a91;
+	border-style: none;
+	color: #ffffff;
+	font-family: "Geometria-Medium", sans-serif;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+::-webkit-input-placeholder {
+	color: #efefef;
+	font-family: "Geometria-Medium", sans-serif;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+}
+
+::-moz-placeholder {
+	color: #fff;
+	font-family: "Geometria-Medium", sans-serif;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+}
+
+:-moz-placeholder {
+	color: #fff;
+	font-family: "Geometria-Medium", sans-serif;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+}
+
+:-ms-input-placeholder {
+	color: #fff;
+	font-family: "Geometria-Medium", sans-serif;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+}
+
+::placeholder {
+	color: #fff;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+}
+
+.applicationButton {
+	width: 200px;
+	height: 40px;
+	border-radius: 5px;
+	background-color: #30466c;
+	color: #ffffff;
+	font-family: "Geometria-Medium";
+	font-size: 14px;
+	font-weight: 500;
+	border-style: none;
+}
+
+
+footer {
+	font-family: "Geometria-ExtraBold";
+	font-size: 14px;
+	color: white;
+	display: flex;
+	align-items: flex-end;
+	justify-content: flex-end;
+
+}
+
+.socials {
+	margin-right: 800px;
+}
+
+.socials a {
+	padding: 0px 20px 0px 20px;
+}
+
+
+.chat {
+	border-radius: 100%;
+	width: 60px;
+	height: 60px;
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2), 0 2px 16px #9d5e9b;
+}
